@@ -16,6 +16,7 @@
 		18958E3323955D5700F321A2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18958E3223955D5700F321A2 /* main.m */; };
 		18958E3D23955D5700F321A2 /* iOS9Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18958E3C23955D5700F321A2 /* iOS9Tests.m */; };
 		18958E4823955D5700F321A2 /* iOS9UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18958E4723955D5700F321A2 /* iOS9UITests.m */; };
+		18958E5723955E6200F321A2 /* NewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18958E5623955E6200F321A2 /* NewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		18958E4323955D5700F321A2 /* iOS9UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOS9UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18958E4723955D5700F321A2 /* iOS9UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS9UITests.m; sourceTree = "<group>"; };
 		18958E4923955D5700F321A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18958E5523955E6200F321A2 /* NewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewController.h; sourceTree = "<group>"; };
+		18958E5623955E6200F321A2 /* NewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				18958E2E23955D5700F321A2 /* LaunchScreen.storyboard */,
 				18958E3123955D5700F321A2 /* Info.plist */,
 				18958E3223955D5700F321A2 /* main.m */,
+				18958E5523955E6200F321A2 /* NewController.h */,
+				18958E5623955E6200F321A2 /* NewController.m */,
 			);
 			path = iOS9;
 			sourceTree = "<group>";
@@ -269,6 +274,7 @@
 			files = (
 				18958E2823955D5600F321A2 /* ViewController.m in Sources */,
 				18958E2223955D5600F321A2 /* AppDelegate.m in Sources */,
+				18958E5723955E6200F321A2 /* NewController.m in Sources */,
 				18958E3323955D5700F321A2 /* main.m in Sources */,
 				18958E2523955D5600F321A2 /* SceneDelegate.m in Sources */,
 			);
