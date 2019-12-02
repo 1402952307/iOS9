@@ -21,5 +21,7 @@
     // 修改代码
 }
 
-
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    
+}
 @end
